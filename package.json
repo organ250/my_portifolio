@@ -1,0 +1,8 @@
+{
+  "name":"ujeneza-organ-portfolio",
+  "version":"1.0.0",
+  "private":true,
+  "scripts":{"dev":"vite","server":"node server.js","build":"vite build","preview":"vite preview"},
+  "dependencies":{"@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest","express":"latest"},
+  "devDependencies":{}
+}
